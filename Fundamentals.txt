@@ -1,0 +1,57 @@
+1) Python Programming Language (5 sessions) (MATLAB, R, Python)
+-- Python Fundamentals 
+-- NumPy
+-- Pandas
+-- Database Access 
+    (Relational-PostgreSQL)
+    (NoSQL - MongoDB)
+-- Flask Fundamentals (WEB)
+-- Google Collab + Google Drive 
+-- Overleaf + Mendeley + Latex 
+
+
+2) Machine Learning (1 sessions)
+-- Classical Machine Learning Algorithms
+
+
+3) Intelligent Systems (1 sessions)
+-- Recommender Systems (TuriCreate)
+
+
+4) Deep Learning (8 sessions)
+-- Artificial Neural Networks ANN
+-- Computer Vision (Open CV + PIL)
+-- Convolutional Neural Networks CNN
+-- Object Detection
+-- Object Segmentation
+-- Long Short Term Memmory LSTM
+-- Generative Adversarial Networks GAN
+
+
+5) Project Presentation (1 session)
+(English)
+
+
+Evaluation:
+a) Machine Learning Project (30%)
+(Recommender System)
+- Use of Database
+- Use of Front-End Frameworks
+- Use of Back-End Frameworks
+- Use of Recommender System Framework (TuriCreate)
+- Use of Flask Web Services
+
+
+b) Deep Learning Project (35%)
+Intelligent System Project (ENG Speaking)
+
+
+c) Project Report - Article First Draft (35%)
+(OverLeaf - Latex) (ENG Writing) [IEEE]
+- Abstract
+- Introduction (Related Works)
+- Materials and methods
+- Experimental setup
+- Experimental results and discussion
+- Conclusions and future work
+- References (Mendeley)
